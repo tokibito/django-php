@@ -1,0 +1,2 @@
+django==1.2.3
+-e http://bitbucket.org/moriyoshi/php-in-python#php-in-python

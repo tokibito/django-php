@@ -1,0 +1,9 @@
+syntax: glob
+*.pyc
+*.swp
+*.orig
+
+syntax: regexp
+^build/
+^dist/
+^django_php\.egg-info/

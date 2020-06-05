@@ -1,2 +1,2 @@
-django==1.2.3
+django==1.11.29
 -e hg+http://bitbucket.org/moriyoshi/php-in-python#egg=php-in-python
